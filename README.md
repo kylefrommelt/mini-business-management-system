@@ -176,9 +176,3 @@ Environment variables:
 - Integration with external APIs
 - Mobile app development
 - AWS deployment with RDS and EC2
-
----
-
-**Created by**: [Your Name]  
-**Purpose**: Portfolio project demonstrating full-stack web development skills  
-**Technologies**: Python, Flask, PostgreSQL, HTML/CSS/JavaScript, Docker 
